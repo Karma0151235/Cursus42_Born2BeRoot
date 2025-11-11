@@ -34,7 +34,7 @@ The project utilizes Debian over Rocky (the two operating systems allowed for th
 
 <li> An extension of the previous points would be in Debian's **package management**. What this means is that the APT (advanced package tool) words extremely intuitively. </li>
 
-<li> Lastly, Debian is also known for its stability and reliability in performance. </li>
+<li> Lastly, Debian is also known for its **stability and reliability** in performance. </li>
 
 ## APT vs Aptitude
 APT and aptitude are package management tools for Debian systems.
