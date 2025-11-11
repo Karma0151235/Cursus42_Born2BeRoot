@@ -87,13 +87,13 @@ Logical Volume Manager is a device mapper framework used to manage logical volum
 </ol>
 
 
-
-| Advantages					                        |
-| ------------------------------------------- | 
-| Resize partitions dynamically               |
-| Moving data across storage devices          |
-| Consistent backups                          |
-| Stripes data across devices for performance |
+<b>Advantages</b>
+<ol>
+<li> Resize partitions dynamically </li>
+<li> Moving data across storage devices </li>
+<li> Consistent backups </li>
+<li> Stripes data across devices for performance </li>
+</ol>
 
 
 # Conclusion
