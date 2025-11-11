@@ -94,5 +94,6 @@ Logical Volume Manager is a device mapper framework used to manage logical volum
 | Consistent backups                          |
 | Stripes data across devices for performance |
 
-## Conclusion
+
+# Conclusion
 This `README` does not cover everything required for the project evaluation, but for more information, this is a really good resource: https://noreply.gitbook.io/born2beroot
