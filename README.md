@@ -70,12 +70,14 @@ AppArmor (Application Armor) is a security module in Linux that gives Mandatory 
 
 Logical Volume Manager is a device mapper framework used to manage logical volumes. This section talks about the flexibility and structure of LVMs, and its advantages over traditional partitioning.
 
+
 <b>Flexibility</b>
 <ol>
 <li> Dynamic resizing of partitions without unmounting. </li>
 <li> Easy management of storage across multiple devices. </li>
 <li> Creates snapshots for backups. </li>
 </ol>
+
 
 <b>Structure</b>
 <ol>
@@ -84,6 +86,7 @@ Logical Volume Manager is a device mapper framework used to manage logical volum
 <li> Logical Volumes (LV) </li>
 </ol>
 
+
 | Advantages					                        |
 | ------------------------------------------- | 
 | Resize partitions dynamically               |
@@ -91,5 +94,5 @@ Logical Volume Manager is a device mapper framework used to manage logical volum
 | Consistent backups                          |
 | Stripes data across devices for performance |
 
-
-
+## Conclusion
+This `README` does not cover everything required for the project evaluation, but for more information, this is a really good resource: https://noreply.gitbook.io/born2beroot
