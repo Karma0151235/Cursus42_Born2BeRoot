@@ -28,13 +28,13 @@ On the last point we discussed briefly about what virtual machines are, but gene
 ## Debian
 The project utilizes Debian over Rocky (the two operating systems allowed for the scope of this project). The rationale is encapsulated in 5 primary points. 
 
-<li> Debian is more **beginner friendly** which means that individuals without prior experience with system administration will have an easier time setting it up. </li>
+<li> Debian is more <b>beginner friendly</b> which means that individuals without prior experience with system administration will have an easier time setting it up. </li>
 
-<li> Debian also has more **extensive documentation** and **community support** which allows for the setup process to be much more seamless. </li>
+<li> Debian also has more <b>extensive documentation</b> and <b>community support</b> which allows for the setup process to be much more seamless. </li>
 
-<li> An extension of the previous points would be in Debian's **package management**. What this means is that the APT (advanced package tool) words extremely intuitively. </li>
+<li> An extension of the previous points would be in Debian's <b>package management</b>. What this means is that the APT (advanced package tool) words extremely intuitively. </li>
 
-<li> Lastly, Debian is also known for its **stability and reliability** in performance. </li>
+<li> Lastly, Debian is also known for its <b>stability and reliability</b> in performance. </li>
 
 ## APT vs Aptitude
 APT and aptitude are package management tools for Debian systems.
