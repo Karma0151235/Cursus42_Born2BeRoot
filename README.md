@@ -14,18 +14,26 @@ A virtual machine (VM) is a type of software that allows for the simulation of a
 On the last point we discussed briefly about what virtual machines are, but generally there are 6 reasons for utilizing virtual machines.
 
 <li> Isolation: This means the environments are secure and inert to the activities of other environments; making it a good choice for testing and development. </li>
+
 <li> Resource Efficiency: Allowing for multiple environments to be run on a single machine means the cost of purchasing a second machine is negated. </li>
+
 <li> Platform Independence: Allowing multiple operating systems to be run on the same hardware. </li>
+
 <li> Disaster Recovery: Virtual machines allow for easy backup and restoration of system states. </li>
+
 <li> Development and Testing: Virtual machines are ideal avenues for development and testing. </li>
+
 <li> Legacy Support: Allow for older operating systems and applications to be run. </li>
 
 ## Debian
 The project utilizes Debian over Rocky (the two operating systems allowed for the scope of this project). The rationale is encapsulated in 5 primary points. 
 
 <li> Debian is more **beginner friendly** which means that individuals without prior experience with system administration will have an easier time setting it up. </li>
+
 <li> Debian also has more **extensive documentation** and **community support** which allows for the setup process to be much more seamless. </li>
+
 <li> An extension of the previous points would be in Debian's **package management**. What this means is that the APT (advanced package tool) words extremely intuitively. </li>
+
 <li> Lastly, Debian is also known for its stability and reliability in performance. </li>
 
 ## APT vs Aptitude
