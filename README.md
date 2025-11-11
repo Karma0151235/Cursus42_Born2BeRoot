@@ -87,6 +87,7 @@ Logical Volume Manager is a device mapper framework used to manage logical volum
 </ol>
 
 
+
 | Advantages					                        |
 | ------------------------------------------- | 
 | Resize partitions dynamically               |
